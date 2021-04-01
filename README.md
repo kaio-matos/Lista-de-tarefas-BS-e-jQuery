@@ -2,7 +2,7 @@
 
 Lista de tarefas feita para praticar Bootstrap e jQuery
 
-[Site](https://kaio-matos.github.io/Lista-de-tarefas-BS-e-jQuery/)
+[Site](https://kaio-matos.github.io/Lista-de-tarefas-BS-e-jQuery/index.html)
 
 ## Como ficou:
 
