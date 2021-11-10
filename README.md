@@ -6,6 +6,6 @@ Lista de tarefas feita para praticar Bootstrap e jQuery
 
 ## Como ficou:
 
-![image](./lista-bs-jquery.png)
+![image](./README/lista-bs-jquery.png)
 
 [Meu Linkedin](https://www.linkedin.com/in/kaio-matos-9532271a5)
